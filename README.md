@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Alexei
 
-<!--
-**AlexeiPenaranda-ML/AlexeiPenaranda-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Engineer | M.Sc. Student in Advanced Software Engineering | BO**
 
-Here are some ideas to get you started:
+My interests lie at the intersection of intelligent systems, scalable software and engineering applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](www.linkedin.com/in/alexei-penaranda) • [Email](mailto:alexei.penaranda@gmail.com) 
+
+### Stack
+![Stack](https://skillicons.dev/icons?i=python,cpp,c,flask,django,mysql,git,github,javascript,react)
+
+## About Me
+
+- Currently based in Bolivia.
+
+## Current Focus
+
+- AI Software Engineering.
+- Machine Learning and model evaluation.
+- Backend development and software architecture.
+- Robotics and autonomous systems.
+- Reliable and reproducible ML applications.
+
+
+- LinkedIn: [Your profile]
+- Email: [Your professional email]
